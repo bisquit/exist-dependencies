@@ -2,7 +2,7 @@
   "name": "exist-dependencies",
   "version": "0.0.1",
   "description": "Check if dependencies are installed in project",
-  "repository": "qookie/exist-dependencies",
+  "repository": "bisquit/exist-dependencies",
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:espower-babel/guess"
