@@ -1,0 +1,13 @@
+{
+  "name": "no-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "safe-json-parse": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
